@@ -1,0 +1,16 @@
+com\ljl\user\config\GlobalMethodSecurityConfig.class
+com\ljl\user\dao\UserDao.class
+com\ljl\user\service\UserDetailService.class
+com\ljl\user\config\JwtConfig.class
+com\ljl\user\client\AuthServiceClient.class
+com\ljl\user\UserApplication.class
+com\ljl\user\bean\UserLoginDTO.class
+com\ljl\user\bean\Role.class
+com\ljl\user\utils\BPwdEncoderUtil.class
+com\ljl\user\bean\JWT.class
+com\ljl\user\controller\DemoController.class
+com\ljl\user\client\AuthServiceHystrix.class
+com\ljl\user\bean\User.class
+com\ljl\user\config\ResourceServerConfig.class
+com\ljl\user\controller\UserController.class
+com\ljl\user\exception\ExceptionHandle.class

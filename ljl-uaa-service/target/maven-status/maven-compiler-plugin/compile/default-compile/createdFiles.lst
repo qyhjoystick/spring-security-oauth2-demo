@@ -1,0 +1,5 @@
+com\ljl\uaa\bean\JWT.class
+com\ljl\uaa\bean\Role.class
+com\ljl\uaa\bean\User.class
+com\ljl\uaa\service\UserServiceDetail.class
+com\ljl\uaa\dao\UserDao.class

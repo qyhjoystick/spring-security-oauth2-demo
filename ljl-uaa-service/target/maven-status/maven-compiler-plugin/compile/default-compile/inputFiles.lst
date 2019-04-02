@@ -1,0 +1,8 @@
+D:\dhome-git\ljl-architecture-spring-cloud2\ljl-uaa-service\src\main\java\com\ljl\uaa\UaaApplication.java
+D:\dhome-git\ljl-architecture-spring-cloud2\ljl-uaa-service\src\main\java\com\ljl\uaa\config\WebSecurityConfig.java
+D:\dhome-git\ljl-architecture-spring-cloud2\ljl-uaa-service\src\main\java\com\ljl\uaa\bean\JWT.java
+D:\dhome-git\ljl-architecture-spring-cloud2\ljl-uaa-service\src\main\java\com\ljl\uaa\config\OAuth2Config.java
+D:\dhome-git\ljl-architecture-spring-cloud2\ljl-uaa-service\src\main\java\com\ljl\uaa\service\UserServiceDetail.java
+D:\dhome-git\ljl-architecture-spring-cloud2\ljl-uaa-service\src\main\java\com\ljl\uaa\dao\UserDao.java
+D:\dhome-git\ljl-architecture-spring-cloud2\ljl-uaa-service\src\main\java\com\ljl\uaa\bean\Role.java
+D:\dhome-git\ljl-architecture-spring-cloud2\ljl-uaa-service\src\main\java\com\ljl\uaa\bean\User.java
